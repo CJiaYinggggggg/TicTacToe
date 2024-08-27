@@ -7,6 +7,6 @@ function App() {
       <TicTacToe/>
     </div>
   );
-}
+ }
 
 export default App;
